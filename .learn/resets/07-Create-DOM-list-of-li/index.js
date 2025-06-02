@@ -1,5 +1,5 @@
 let beginning = "<ul>";
-let listString = "<li>First Item</li><li>Second Item</li><li>Third Item</li>";
+let listString = "";
 let ending = "</ul>";
 
 // Do not modify after this line
